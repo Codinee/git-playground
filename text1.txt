@@ -4,4 +4,3 @@ My first file
   few more  
   for branch testing
   few lines for branch feature1 testing
-  ew lines for branch feature2 master testing
