@@ -4,3 +4,4 @@ new lines
 few more...
 for branch testing
 few lines for branch feature1 testing
+few lines for branch feature2 master testing
