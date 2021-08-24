@@ -1,3 +1,4 @@
 Third file for git
 new lines for branch testing
 few lines for branch feature2 my testing
+few lines for branch feature1 merge conflict testing
